@@ -16,7 +16,6 @@ class App extends Component {
 
     // Set map definition
     chart.geodataSource.url = "https://www.amcharts.com/lib/4/geodata/json/japanLow.json";
-    console.log(chart.geodataSource.url)
     chart.geodataSource.events.on("parseended", function(event) {
       let data = [];
       for(var i = 0; i < event.target.data.features.length; i++) {

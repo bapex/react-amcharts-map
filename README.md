@@ -1,5 +1,8 @@
 This project is react-amcharts-map example.
 
+<img width="845" alt="japan-map" src="https://user-images.githubusercontent.com/19667736/69162960-c7fffe80-0b30-11ea-9db1-4aafa3122311.png">
+
+
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
